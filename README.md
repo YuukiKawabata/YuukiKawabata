@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 
 ### 🔧 **Development Tools**
-<img src="https://skillicons.dev/icons?i=git,github,jest,storybook,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,jest,vscode,postman" />
 
 </td>
 </tr>

@@ -29,7 +29,6 @@
 💼 **Focus:** Large-scale web applications & PML development  
 ☕ **Powered by:** Coffee and continuous learning  
 🎯 **Goal:** Creating scalable and beautiful web applications  
-📚 **Certifications:** 日商簿記2級, Python3エンジニア認定基礎試験  
 
 </td>
 </tr>

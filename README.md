@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,35:0EA5E9,70:8B5CF6,100:F471B5&height=200&section=header&text=Yuuki%20Kawabata&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Product%20Engineer%20%E2%9C%A6%20Osaka,%20Japan&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <a href="https://github.com/YuukiKawabata">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=26&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%83%BB%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%928%E6%9C%AC%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9;React%20%2F%20Next.js%20%2F%20TypeScript%20%2F%20SwiftUI;AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%A8%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E6%AF%8E%E6%97%A5" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=26&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%83%BB%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%9213%E6%9C%AC%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9;React%20%2F%20Next.js%20%2F%20TypeScript%20%2F%20SwiftUI;AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%A8%E9%96%8B%E7%99%BA%E3%81%99%E3%82%8B%E6%AF%8E%E6%97%A5" alt="typing" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-`Web開発 約5年9か月`　•　`公開アプリ 8本`　•　`企画 → 実装 → 審査 → 運用 まで一人で`
+`Web開発 約6年`　•　`公開アプリ 13本`　•　`企画 → 実装 → 審査 → 運用 まで一人で`
 
 </div>
 
@@ -54,9 +54,9 @@
 |  |  |
 |:--|:--|
 | 🔭 **いま** | 精密機器メーカー向け基幹システムの改善保守・基盤構築（Java / Angular / AWS） |
-| 🚀 **個人開発** | 健康管理アプリ **Respo** を中心に、8本のアプリを公開・運用中 |
+| 🚀 **個人開発** | 経営シミュレーション **コンビニ帝国** を中心に、13本のアプリを公開・運用中。数字と失敗を全部公開しながら、個人開発で月10万円を目指しています |
 | 🤖 **関心** | AIエージェントを「開発チームの一員」として扱う開発フロー |
-| ✍️ **発信** | Zenn / note / 個人ブログで、AI時代の開発と個人開発について書いています |
+| ✍️ **発信** | X / Threads で開発と個人開発の数字を毎日発信し、ブログ / note に週次ログとしてまとめています |
 | 🌱 **学習中** | 上流工程・システム設計、プロダクトのグロース |
 
 </td>
@@ -131,24 +131,31 @@
 </tr>
 
 <tr>
-<td align="center"><b>Respo</b><br/><sub>🥗 健康管理</sub></td>
-<td>写真を撮るだけで食事を記録・栄養解析。運動 / 睡眠 / 体重、AIチャット、週次レビュー、コミュニティまで含む主力プロダクト。</td>
+<td align="center"><b>コンビニ帝国</b><br/><sub>🏪 経営シミュレーション</sub></td>
+<td>自分だけのコンビニを育てる経営シミュレーション。発注・棚割・スタッフ育成を回して売上を伸ばす、個人開発の主力プロダクト。</td>
+<td><sub>Swift / SwiftUI<br/>AdMob</sub></td>
+<td align="center"><a href="https://apps.apple.com/jp/app/id6807601218"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td align="center"><b>カロリング</b><br/><sub>🥗 健康管理</sub></td>
+<td>食事の写真からAIがカロリー・PFCを計算し、歩数と睡眠を合わせて「食べた・動いた・休んだ」の3リングで1日を見せる健康管理アプリ。全機能無料。</td>
 <td><sub>React Native / Expo<br/>Supabase / RevenueCat<br/>HealthKit</sub></td>
 <td align="center"><a href="https://apps.apple.com/jp/app/id6759490486"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a><br/><a href="https://play.google.com/store/apps/details?id=com.yuukikawabata.respo"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white" /></a></td>
 </tr>
 
 <tr>
 <td align="center"><b>Atode</b><br/><sub>📸 タスク化</sub></td>
-<td>スクショを端末内OCRで読み取り、AIが「買う / 行く / 返信 / 予定 / 読む」に分類して次の行動へつなぐ。</td>
+<td>溜まったスクリーンショットをAIが読み取り、「予定・タスク・買い物」などに自動で仕分ける整理アプリ。</td>
 <td><sub>Swift / SwiftUI<br/>Apple Vision OCR<br/>Firebase / StoreKit 2</sub></td>
 <td align="center"><a href="https://apps.apple.com/jp/app/atode/id6778453895"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a></td>
 </tr>
 
 <tr>
-<td align="center"><b>HitoLog</b><br/><sub>✍️ 人間のSNS</sub></td>
-<td>AI生成が当たり前の時代に「人の言葉」を残すSNS。ペースト制御・入力時間の計測から Human Score を算出。</td>
-<td><sub>Swift / SwiftUI<br/>Firebase / Firestore<br/>PostHog</sub></td>
-<td align="center"><a href="https://apps.apple.com/jp/app/hitolog/id6772677155"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a><br/><a href="https://github.com/YuukiKawabata/HitoLog"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td align="center"><b>Wamori</b><br/><sub>✍️ 交換日記</sub></td>
+<td>親しい人だけで今日を交換するクローズドSNS。2〜5人の招待制グループ「輪」で、1日1つの出来事や気持ちを残す交換日記。</td>
+<td><sub>Swift / SwiftUI<br/>Firebase / Firestore</sub></td>
+<td align="center"><a href="https://apps.apple.com/jp/app/id6772677155"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a><br/><a href="https://github.com/YuukiKawabata/HitoLog"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
 </tr>
 
 <tr>
@@ -172,19 +179,7 @@
 <td align="center"><a href="https://apps.apple.com/jp/app/id6783818588"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a></td>
 </tr>
 
-<tr>
-<td align="center"><b>未来ベビー</b><br/><sub>👶 AI画像生成</sub></td>
-<td>2人の写真から「未来の子どもの顔」を生成。性別 / 年齢 / 雰囲気の指定と「どっち似診断」。</td>
-<td><sub>Swift 6 / SwiftUI<br/>Gemini / StoreKit 2</sub></td>
-<td align="center"><a href="https://apps.apple.com/jp/app/id6786303465"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a></td>
-</tr>
 
-<tr>
-<td align="center"><b>VocabBoost</b><br/><sub>📚 英単語学習</sub></td>
-<td>反復学習で語彙を定着させる英単語アプリ。</td>
-<td><sub>Android</sub></td>
-<td align="center"><a href="https://play.google.com/store/apps/details?id=com.yuuki.ja.vocabboost"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=googleplay&logoColor=white" /></a></td>
-</tr>
 
 </table>
 
@@ -219,7 +214,8 @@
             │
             └─ 技術の話ができないもどかしさ → プログラミング学習
             
-2020.11 ─── now    株式会社オータム / フルスタックエンジニア・新人トレーナー
+2020.11 ─── 2025.12   株式会社オータム / フルスタックエンジニア・新人トレーナー
+2026.01 ─── now       株式会社リンク / フルスタックエンジニア
 ```
 
 </div>

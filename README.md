@@ -155,14 +155,14 @@
 <td align="center"><b>Wamori</b><br/><sub>✍️ 交換日記</sub></td>
 <td>親しい人だけで今日を交換するクローズドSNS。2〜5人の招待制グループ「輪」で、1日1つの出来事や気持ちを残す交換日記。</td>
 <td><sub>Swift / SwiftUI<br/>Firebase / Firestore</sub></td>
-<td align="center"><a href="https://apps.apple.com/jp/app/id6772677155"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a><br/><a href="https://github.com/YuukiKawabata/HitoLog"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td align="center"><a href="https://apps.apple.com/jp/app/id6772677155"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a></td>
 </tr>
 
 <tr>
 <td align="center"><b>AirTalks</b><br/><sub>📡 近距離チャット</sub></td>
 <td>インターネットもアカウントも不要。端末間の直接通信で会話し、終了すると履歴が残らないメモリ内設計。</td>
 <td><sub>Swift / SwiftUI<br/>MultipeerConnectivity</sub></td>
-<td align="center"><a href="https://apps.apple.com/jp/app/airtalks/id6760606408"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a><br/><a href="https://github.com/YuukiKawabata/AirTalk"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td align="center"><a href="https://apps.apple.com/jp/app/airtalks/id6760606408"><img src="https://img.shields.io/badge/iOS-0D96F6?style=flat-square&logo=apple&logoColor=white" /></a></td>
 </tr>
 
 <tr>
